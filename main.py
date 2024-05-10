@@ -5,7 +5,7 @@ from random import randint
 from config import dist_feature as feature
 # from telebot.async_telebot import AsyncTeleBot
 
-TOKEN = "7092685897:AAHQKu564iEwHbMGPg5kGIvjBDP5Aw1-wSA"
+TOKEN = ""
 
 
 bot = telebot.TeleBot(TOKEN)
